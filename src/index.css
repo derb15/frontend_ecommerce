@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.icon-key {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/1706903-200.png") no-repeat left;
+    background-size: 20px;
+  }
+
+.icon-email {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/3714904-200.png") no-repeat left;
+    background-size: 20px;
+  }
+
+.icon-user {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/1644591-200.png") no-repeat left;
+    background-size: 17px;
+  }
+  
